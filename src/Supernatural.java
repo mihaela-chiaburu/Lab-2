@@ -26,6 +26,7 @@ public class Supernatural {
         //hera.interactWithOtherGod(loki);
         hera.interactWithOtherGod(zeus);
         zeus.interactWithOtherGod(anubis);
+        System.out.println("\n");
 
         //creating a Roman God xd xd
         zeus.setName("Jupiter");
@@ -34,6 +35,7 @@ public class Supernatural {
         System.out.println(casper);
         ladyInWhite.setHauntingLocation("Abandoned school");
         System.out.println(ladyInWhite);
+        System.out.println("\n");
 
         alucard.drinkBlood("Mihaela", "Type A");
         System.out.println(dracula);

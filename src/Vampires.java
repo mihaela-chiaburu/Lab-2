@@ -34,7 +34,7 @@ public class Vampires {
         }
     }
     public String toString() {
-        return "\nMythical God:"
+        return "\nVampire:"
                 + "\n Name: " + this.name
                 + "\n Blood type preference: " + this.bloodTypePreference
                 + "\n Age: " + this.age
